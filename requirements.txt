@@ -1,0 +1,6 @@
+flask
+flask-wtf
+flask-login
+sqlalchemy
+Flask-Limiter
+Flask-Talisman
